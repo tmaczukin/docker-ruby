@@ -1,5 +1,5 @@
 tstamp = $(shell date +"%Y%m%d%H%M%S")
-tag = 2.2.0
+tag = 2.1.5
 name = ruby
 vendor = tmaczukin
 imageName = $(vendor)/$(name)
